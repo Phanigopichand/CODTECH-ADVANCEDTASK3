@@ -38,3 +38,6 @@ Data Augmentation: (Optional) Increase the size of the dataset by applying trans
 Convolutional Layers: Extract features from the input image using filters.
 Pooling Layers: Reduce the spatial dimensions of the feature maps while preserving important information.
 Fully Connected Layers: Connect the output of the convolutional and pooling layers to a classifier (e.g., softmax) to predict the class probabilities.
+
+![WhatsApp Image 2025-01-18 at 1 09 48 PM](https://github.com/user-attachments/assets/827e19bb-437c-47ab-a035-32b86db5dca9)
+
